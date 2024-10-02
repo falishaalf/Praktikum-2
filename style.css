@@ -1,0 +1,13 @@
+
+    img {
+        border-radius: 50%;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+    h1{
+        color: rgb(189, 65, 117);
+    }
+body {
+    background-color:antiquewhite;
+}
